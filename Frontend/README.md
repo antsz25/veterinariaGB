@@ -9,4 +9,5 @@ Install dependencies before with:
 > npm install
 ```
 Node version used: 18.18.0
+
 Node Package Manager (npm) version used: 9.8.1
